@@ -431,9 +431,6 @@ def hashes():
     if(option == '3'):
         md5()
 
-    
-
-
 
 if(option == '1'):
     caesar()
