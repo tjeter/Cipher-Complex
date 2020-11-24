@@ -1,4 +1,3 @@
-#Programmers: Tre' Jeter and Tajah Clark
 #Purpose: Combine 7 known cipher techniques into one menu-oriented tool
 #Date: November 18, 2020
 
